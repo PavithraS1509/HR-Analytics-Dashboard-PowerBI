@@ -19,7 +19,13 @@ This project presents an interactive HR Analytics Dashboard developed using Powe
 - Compare attrition across age groups, salary levels, education, and job roles.
 - Build an interactive dashboard for HR decision-making.
 
----
+## | Feature | Description |
+|----------|-------------|
+| KPI Cards | Total Employees, Attrition, Average Salary |
+| Interactive Slicers | Department, Gender, Education |
+| DAX Measures | Attrition Rate, Average Age, Employee Count |
+| Charts | Bar, Column, Donut and Line Charts |
+| Power Query | Data Cleaning and Transformation |
 
 ## Key Performance Indicators
 
@@ -53,7 +59,15 @@ This project presents an interactive HR Analytics Dashboard developed using Powe
 - DAX
 - Data Modeling
 
----
+## Skills Demonstrated
+
+- Power BI Dashboard Development
+- Power Query (ETL)
+- DAX Calculations
+- Data Modeling
+- KPI Design
+- Interactive Visualizations
+- Business Intelligence
 
 ## Dataset
 
